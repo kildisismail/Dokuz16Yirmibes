@@ -1,0 +1,6 @@
+# Dokuz16Yirmibes
+Java sayı sıralama puzzle oyunu
+
+_____________________________________________________________________________________________________
+
+Emre Salman ve İsmail Kıldiş tarafından geliştirilmiştir. Hakları tarafımıza aittir.
